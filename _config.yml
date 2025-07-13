@@ -25,10 +25,10 @@ author:
   avatar           : "profile.png"
   name             : "Pavan Rakesh Tripathi"
   pronouns         : # example: "she/her"  
-  bio              : "Researcher/Engineer"
+  bio              : "Project Associate III at Society for Electronic Transactions and Security (SETS), Chennai "
   location         : "India, Earth"
-  employer         : "Society for Electronic Transactions and Security (SETS), Chennai"
-  uri              : # URL
+  employer         : "SETS, Chennai"
+  URI              : "https://setsindia.in/"
   email            : "tripathipavan10@gmail.com" 
 
   # Academic websites
