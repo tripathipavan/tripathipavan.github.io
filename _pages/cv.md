@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
@@ -11,27 +11,27 @@ redirect_from:
 
 Education
 ======
-* Master of Science (By Research) in Electrical Engineering, Indian Institute of Technology Kanpur (IITK), 2024.
-  * Successful completion of all course and thesis credits: August 2023.
-  * Leave granted for thesis submission and defense: August 2023.
-  * Thesis Submission: May 2024.
-  * Thesis Defense: August 2024 .
-* Bachelor of Engineering in Electronics Engineering, Datta Meghe College of Engineering (DMCE), University of Mumbai, 2016.
+* **Master of Science (By Research) in Electrical Engineering**, *Indian Institute of Technology Kanpur (IITK)*, 2024
+  * Completed all course and thesis credits: August 2023
+  * Thesis submission: May 2024; Thesis defense: August 2024
+* **Bachelor of Engineering in Electronics Engineering**, *Datta Meghe College of Engineering (DMCE), University of Mumbai*, 2016
 
 Work experience
 ======
-* June 6, 2025 - Present: Project Associate III, Quantum Security Research Group (QSRG), SETS, Chennai.
-  * Project: Quantum Internet with Local Access (QuILA) under National Quantum Mission (NQM).
-  * Objective: Security Testing and Validation of Quantum Key Distribution (QKD) systems and services.
-  * Current Duties:
-    * Co-leading in the establishment of the Quantum Hacking Laboratory at QSRG.
-    * Managing the procurement of cutting-edge laboratory equipments, including single frequency laser and driver, photoreceiver module, single photon detector, modulator driver and bias controller, etc, while adhering to a 1.5 crores budget.
-    * 
+* **Project Associate III**, Quantum Security Research Lab (QSRL), SETS, Chennai
+**June 6, 2025 - Present**
+  * Project: *Quantum Internet with Local Access (QuILA)* under National Quantum Mission (NQM)
+  * Objective: Security testing and validation of Quantum Key Distribution (QKD) systems
+  * Responsibilities:
+    * Co-leading the establishment of the **Quantum Hacking Laboratory**
+    * Managing procurement of cutting-edge laboratory equipment - single frequency laser, drivers, photoreceivers, single photon detectors, modulator drivers, bias controllers, etc.
+    * Performing security testing and validation of QKD systems developed by collabo
 
-* Nov 1, 2023 - May 27, 2025: Project Associate I and II, Hardware Security Research Group (HSRG), SETS, Chennai.
-  * Project: Post-Quantum Cryptography based Public-Key Infrastructure (PQC-PKI).
-  * Objective: Side-Channel Analysis (SCA) and Validation of PQC algorithms.
-  * Duties accomplished: 
+* **Project Associate I and II**, Hardware Security Research Group (HSRG), SETS, Chennai
+**Nov 1, 2023 - May 27, 2025**
+  * Project: *Post-Quantum Cryptography based Public-Key Infrastructure (PQC-PKI)*
+  * Objective: Side-Channel Analysis (SCA) and validation of PQC algorithms
+  * Responsibilities: 
     * Automated the validation of cryptographic modules- all modes of Advanced Encryption Standard (AES), Galois Counter Mode (GCM), and Deterministic Random Bit Generator (DRBG) using C.
     * Knowledgable in ISO 19790 and ISO 24759 for the security and test requirements of cryptographic modules.
     * Knowledgable in  ISO 17825 for the mitigation of non-invasive atacks i.e. SCA against cryptographic modules.
