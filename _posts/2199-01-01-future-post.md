@@ -1,11 +1,9 @@
 ---
-title: 'Future Blog Post'
-date: 2199-01-01
-permalink: /posts/2012/08/blog-post-4/
+title: 'Recent GNSS Spoofing'
+date: 21 Dec 2025
+permalink: /posts/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - GNSS Spoofing
 ---
 
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+Recently, at my office, I gave a background talk on recent GNSS spoofing incidents reported at New Delhi Airport. I will complete writing about this talk here shortly. 

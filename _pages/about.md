@@ -12,13 +12,13 @@ Welcome to my website!
 
 About Me
 ======
-I am a **Project Associate III** at the [Society for Electronic Transactions and Security (SETS)](https://setsindia.in/) in Chennai, India, where I work within the **Quantum Security Research Lab**. My expertise lies in Random Number Generators (RNGs), Quantum Communication and Cryptography, Quantum Security, and Hardware Security.
+I am a **Project Associate III** at the [Society for Electronic Transactions and Security (SETS)](https://setsindia.in/) in Chennai, India, where I work within the **Quantum Security Research Lab**. My interests lies in Random Number Generators (RNGs), Quantum Communication and Cryptography, Quantum Security, and Hardware Security.
 
 I hold an **MS by Research** in Electrical Engineering (Photonics) from the **Indian Institute of Technology, Kanpur (IITK)**.
 
 My current work involves the security testing, evaluation, and validation of Quantum Key Distribution (QKD) systems, **co-leading** the establishment of a national reference laboratory for QKD security evaluation in India.
 
-Previously, I worked on cryptographic modules validation and developed high-speed True Random Number Generators (TRNGs) for FC-QKD systems.
+Previously, I worked on cryptographic modules validation and developed high-speed True Random Number Generators (TRNGs) for Frequency Coded-QKD systems.
 
  
 News & Updates
