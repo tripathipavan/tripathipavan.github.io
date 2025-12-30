@@ -86,6 +86,6 @@ Skills
   * Go-Win
   * Eagle PCB design software
   * Power BI, Tableau
-* Handling electronic and optical instruments such as oscilloscopes, power supply, optical spectrum analyzers, lasers, and photodetectors.
-* Hnadling optical devices such as modulators, gratings, fibers, and couplers. 
+* Handling electronic and optical instruments such as oscilloscopes, power supply, optical spectrum analyzers, lasers, photodetectors, etc.
+* Handling optical devices such as modulators, gratings, fibers, couplers, etc. 
 
